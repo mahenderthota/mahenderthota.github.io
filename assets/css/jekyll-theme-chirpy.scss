@@ -1,0 +1,42 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+.button-container {
+    display: flex; /* Arranges buttons horizontally */
+    justify-content: center; /* Centers buttons horizontally */
+    margin-top: 2rem; /* Margin top for spacing */
+  }
+  
+  .button {
+    background-color: #4CAF50; /* Green color */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+
+  .skill-list {
+    display: flex; /* Arranges skills horizontally */
+    flex-wrap: wrap; /* Allows skills to wrap onto multiple lines */
+    justify-content: center; /* Centers skills horizontally */
+    list-style: none; /* Removes default bullet points */
+    margin: 0; /* Removes default margin */
+    padding: 0; /* Removes default padding */
+  }
+  
+  .skill-list li {
+    margin: 10px; /* Adjust spacing between skills as needed */
+    text-align: center; /* Aligns skill text to the center */
+  }
+  
+  
