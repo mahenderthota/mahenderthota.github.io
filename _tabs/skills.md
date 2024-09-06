@@ -2,33 +2,16 @@
 layout: page
 icon: fas fa-archive
 order: 2
+title: My Skills
 ---
 
 
-## My Skills
-
-* **Python**  
-   <img src="{{ '/assets/img/python_icon.png' | relative_url }}" alt="Python Logo" width="50" height="50"> 
-
-* **Hadoop** 
-   <img src="{{ '/assets/img/hadoop.jpg' | relative_url }}" alt="Hadoop Logo" width="50" height="50">
-
-* **Spark**
-   <img src="{{ '/assets/img/Apache_Spark_logo.png' | relative_url }}" alt="Django Logo" width="50" height="50">
-
-## My Skills
-
-<ul class="skill-list">
-  <li>
-    <img src="{{ '/assets/img/python_icon.png' | relative_url }}" alt="Python Logo" width="50" height="50">
-    Python
-  </li>
-  <li>
-    <img src="{{ '/assets/img/hadoop.jpg' | relative_url }}" alt="Hadoop Logo" width="50" height="50">
-    Hadoop
-  </li>
-  <li>
-    <img src="{{ '/assets/img/Apache_Spark_logo.png' | relative_url }}" alt="Spark Logo" width="50" height="50">
-    Spark
-  </li>
-  </ul>
+## Technical Skills
+  <div class="skill-grid">
+  {% for skill in site.data.skills %}
+    <div class="skill-item">
+      <img src="{{ skill.image | relative_url }}" alt="{{ skill.name }}" width="50" height="50">
+      <h3>{{ skill.name }}</h3>
+      <p>{{ skill.description }}</p>
+    </div>
+  {% endfor %}

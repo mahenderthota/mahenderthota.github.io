@@ -1,0 +1,68 @@
+- name: Python
+  image: /assets/img/python_icon.png
+  description: Proficient in Python programming language
+
+- name: Hadoop
+  image: /assets/img/hadoop.png
+  description: Experienced in Hadoop ecosystem
+
+- name: Spark
+  image: /assets/img/Apache_Spark_logo.png
+  description: Skilled in Spark processing engine
+
+- name: SQL
+  image: /assets/img/sql.png
+  description: Proficient in SQL database management
+
+- name: Tableau
+  image: /assets/img/tableau.png
+  description: Skilled in Tableau data visualization tool
+
+- name: Machine Learning
+  image: /assets/img/machine_learning.png
+  description: Experienced in Machine Learning algorithms
+
+- name: ETL
+  image: /assets/img/etl.png
+  description: Skilled in ETL data processing
+
+- name: Informatica
+  image: /assets/img/informatica.png
+  description: Experienced in Informatica ETL tool
+
+- name: Power BI
+  image: /assets/img/power_bi.png
+  description: Skilled in Power BI data visualization tool
+
+- name: Apache Kafka
+  image: /assets/img/kafka.png
+  description: Experienced in Apache Kafka messaging system
+
+- name: Google Cloud
+  image: /assets/img/google_cloud.png
+  description: Skilled in Google Cloud Platform
+
+- name: Oracle BI
+  image: /assets/img/oracle_bi.png
+  description: Experienced in Oracle Business Intelligence tool
+
+- name: Git
+  image: /assets/img/git.png
+  description: Proficient in Git version control system
+
+- name: AWS Redshift
+  image: /assets/img/aws_redshift.png
+  description: Skilled in AWS Redshift data warehouse
+
+- name: Azure Data Factory
+  image: /assets/img/azure_data_factory.png
+  description: Experienced in Azure Data Factory
+  
+- name: Azure SQL
+  image: /assets/img/azure_sql.png
+  description: Skilled in Azure SQL database management
+
+- name: AWS Glue
+  image: /assets/img/aws_glue.png
+  description: Experienced in AWS Glue ETL tool
+

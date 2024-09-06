@@ -38,5 +38,17 @@
     margin: 10px; /* Adjust spacing between skills as needed */
     text-align: center; /* Aligns skill text to the center */
   }
+  .skill-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
   
+  .skill-item {
+    text-align: center;
+  }
+  
+  .skill-item img {
+    margin-bottom: 10px;
+  }
   
