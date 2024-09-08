@@ -16,7 +16,7 @@ timezone:
 
 title: Mahender Reddy Thota # the main title
 
-tagline: Data Engineer transitioning into Data Science and Analytics # it will display as the sub-title
+tagline: Data Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Aspiring Data Scientist, expert in Python, SQL, Data Analysis.
@@ -29,7 +29,7 @@ github:
   username: mahenderthota # change to your github username
 
 twitter:
-  username: mahifcb # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: mahenderthota@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mahifcb # change to your twitter homepage
+    # change to your twitter homepage
     - https://github.com/mahenderthota # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
