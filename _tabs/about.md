@@ -15,3 +15,9 @@ I'm a seasoned data engineer with a passion for building scalable data pipelines
 * Phone: 437-662-8908
 * LinkedIn: [linkedin.com/in/mahenderthota](https://www.linkedin.com/in/mahenderthota)
 * GitHub: [mahenderthota.github.io](https://mahenderthota.github.io)
+
+
+
+### Download My CV
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue?style=for-the-badge)](/assets/cv/mahender_reddy_thota_cv.pdf)

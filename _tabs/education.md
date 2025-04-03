@@ -1,11 +1,13 @@
 ---
-layout: categories
+layout: page
 icon: fas fa-stream
 order: 5
 ---
 
-Postgraduate Certificate in Business Analytics 							           April 2024
-Conestoga College 									           Guelph, Ontario, Canada
-Bachelor of Technology 										           April 2017
-Electronics and Communication Engineering 								     Guntur, India
-K L University
+
+| **Degree**                                   | **Institution**            | **Location**               | **Completion Date** |
+|---------------------------------------------|----------------------------|----------------------------|---------------------|
+| Postgraduate Certificate in Applied AI Solutions Development | George Brown College          | Toronto    | August 2025          |
+| Postgraduate Certificate in Business Analytics | Conestoga College          | Guelph   | April 2024          |
+| Bachelor of Technology | K L University             | Guntur, India            | April 2017          |
+
